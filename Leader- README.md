@@ -68,11 +68,5 @@ Similarly, if you email or Slack me outside of my working hours, I may not respo
 
 Even though I work from home now, you can expect me to be as available as I would be if I was in the office. Although it may feel weird to schedule a brief Zoom meeting when you'd normally just swing by my desk for five minutes, please do so without hesitation if you think chatting face-to-face or screen-sharing will be more useful than textual communication.
 
-## Caveat
-
-Take this document with a grain of salt: I wrote it! I have never experienced having me as a manager. If I'm your TL and something here seems off, open a pull request or issue, or (probably more comfortably) bring it up to me in one-on-one or over Slack.
-
-## Expectations of you
-
-This document is meant to focus on how I work and what to expect from me. We will discuss expectations I have of you and the rest of the team soon after we begin working together, and I will link you to an internal onboarding document with some HubSpot-specific onboarding information.
-
+## Side note
+I created this document in an effort to help take some of guesswork out of things. If there is something I should consider adding, or if you have a question taht is not covered in this document bring it up to me in one-on-one or over Slack.
