@@ -1,6 +1,6 @@
 👋 Hi, I’m <b>Rachel </b> [ r AI - ch uh l ] <b> Keen </b> [ K EE N ]
 <br>
-# Introduction
+<h1 style="font-size:60px;"> Introduction </h1>
 Part of  having a diverse and inclusive team, means recognizing and appreciating that everyone is different. This document is designed to tell you a little bit about me, to give insight into how I work and think in an effort to help us work better together. Providing this information to you is not intended to replace a relationship and mutual understanding we will build as we work together. I invite you to share as much or as little information as your feel would be helpful for me too. I'm looking forward to getting to know you! 
 <p>
 - <b>Fun fact about me</b>: growing up I lived in Thailand and raised gibbons and black asian sun bears.<br>
@@ -11,12 +11,12 @@ Part of  having a diverse and inclusive team, means recognizing and appreciating
 - <b>What do I value in a coworker</b>: Being someone I can count on and trust - I value camaraderie (likely due to my military background).<br>
 - <b>Honest, unfiltered thing to know</b>: When I am stressed, I become laser focused and assertive - I appreciate purpose-driven partnership during these times.
 <p>
-<b> Contact data </b><br>
+<h2 style="font-size:40px;"> <b>Contact information</b> </h2>
 <b>Phone</b>: 405-694-9825<br> 
 <b>Working hours</b> are generally 8a-5p  (I value flexibility)<br>
 <b>Time zone</b>: Central - am available Eastern as needed<br>
 <br>
-<b>Communication preferences</b> <br>
+<h3 style="font-size:30px;"><b>Communication preferences</b></h3> <br>
 During work hours in order of preference:<br>
 - Slack DM<br>
 - Zoom call<br>
