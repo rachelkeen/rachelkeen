@@ -1,7 +1,7 @@
 👋 Hi, I’m <b>Rachel </b> [ r AI - ch uh l ] <b> Keen </b> [ K EE N ]
 <br>
 <h1 style="font-size:60px;"> Introduction </h1>
-Part of  having a diverse and inclusive team, means recognizing and appreciating that everyone is different. This document is designed to tell you a little bit about me, to give insight into how I work and think in an effort to help us work better together. Providing this information to you is not intended to replace a relationship and mutual understanding we will build as we work together. I invite you to share as much or as little information as your feel would be helpful for me too. I'm looking forward to getting to know you! 
+Part of  having a diverse and inclusive team, means recognizing and appreciating that everyone is different. This document is designed to tell you a little bit about me, give insight into how I work and think in an effort to help us work better together. Providing this information to you is not intended to replace a relationship and mutual understanding we will build as we work together. I invite you to share as much or as little information as your feel would be helpful for me too. I'm looking forward to getting to know you! 
 <p>
 - <b>Fun fact about me</b>: growing up I lived in Thailand and raised gibbons and black asian sun bears.<br>
 - <b>Odd thing</b>: I love forms, planners and office swag! <br>
@@ -55,9 +55,9 @@ This readme used to have a section on my in-office schedule, but so much has cha
 
 ### After-hours communication
 
-I will get a sense of your normal working hours as we begin working together, and I will make a strong effort not to message you outside of these hours because I know many people have Slack notifications sent to their phone. I will sometimes send emails outside of your working hours (especially if we're in different time zones), as emails don't tend to notify people quite as intrusively; you should not feel obligated to respond until you are working. With Slack I tend to use the "schedule message" functionality if I am sending a message outside of your usual working times, since it tends to trigger a notification. If you are receiving after-hours Slack messages from me with any frequency, please let me know—it may mean I'm misunderstanding the hours you normally work.
+I will get a sense of your normal working hours as we begin working together, and I will make a strong effort not to message you outside of these hours because I know many people have Slack notifications sent to their phone. I will sometimes send emails outside of your working hours (especially if we're in different time zones), as emails don't tend to notify people quite as intrusively; do not feel obligated to respond until you are working. With Slack I tend to use the "schedule message" functionality if I am sending a message outside of your usual working times, since it tends to trigger a notification. If you are receiving after-hours Slack messages from me with any frequency, please let me know—it may mean I'm misunderstanding the hours you normally work.
 
-If for any reason I do urgently need you outside of your normal working hours, I will page you. This will happen _extremely_ rarely (if ever).
+If for any reason I do urgently need you outside of your normal working hours, I will text you. This will happen _extremely_ rarely (if ever).
 
 Similarly, if you email or Slack me outside of my working hours, I may not respond quickly. I do try to keep up with notifications in case there's anything urgent, but if I read a message and it's non-urgent, I may leave it until the next working day. If you have something non-urgent you want to tell me and it's outside of my work hours, I don't mind if you Slack me, though I always appreciate an explicit note that it's non-urgent! If you need me urgently outside of work hours, paging me is the best way to get hold of me, though you can always try Slack too first.
 
@@ -66,7 +66,7 @@ Similarly, if you email or Slack me outside of my working hours, I may not respo
 1.  Slack me or set up an impromptu Zoom meeting.
 2.  Throw something on my calendar. If I am scheduled for an interview or something else I can't reschedule and you invite me to a meeting, I may chat with you and reschedule. If you see that I've blocked off the day or time block as "meeting-free", that does not apply to you—it's more to discourage folks outside the team from scheduling non-urgent meetings that day that could be scheduled otherwise. If you need to talk, schedule over this as much as you need.
 
-Even though I work from home now, you can expect me to be as available as I would be if I was in the office. Although it may feel weird to schedule a brief Zoom meeting when you'd normally just swing by my desk for five minutes, please do so without hesitation if you think chatting face-to-face or screen-sharing will be more useful than textual communication.
+Though I work remotely, please expect me to be as available as I would be if we were in the office. Do not hes brief Zoom meeting when you'd normally just swing by my desk for five minutes, please do so without hesitation if you think chatting face-to-face or screen-sharing will be more useful than textual communication.
 
 ## Side note
 I created this document in an effort to help take some of guesswork out of things. If there is something I should consider adding, or if you have a question taht is not covered in this document bring it up to me in one-on-one or over Slack.
