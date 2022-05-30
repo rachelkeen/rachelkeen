@@ -29,7 +29,6 @@ Outside work hours in order of preference:<br>
 - Text message<br>
 - Phone call<br>
 <br>
-<br>
 - My number 1 goal is to <b>be available</b> to support my team, and <b>facilitate their growth</b> - please do not assume I am too busy, reach out if you would like and I will ensure we make time to connect<br>
 - I appreciate <b>direct communication</b> as it helps me know how to best support you<br>
 - I enjoy my work most when I have a <b>high level of autonomy</b>, I incorporate this into how I lead others - if you prefer less autonomy or require more assistance please let me know<br>
