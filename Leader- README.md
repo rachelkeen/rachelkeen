@@ -13,7 +13,8 @@ Part of  having a diverse and inclusive team, means recognizing and appreciating
 <p>
 <h2 style="font-size:40px;"> <b>Contact information</b> </h2>
 <b>Phone</b>: 405-694-9825<br> 
-<b>Working hours</b> are generally 8a-5p, though this varies somewhat depending on meetings. If I am not available during my normal hours for some reason, I will mark it in my Slack status (and on my calendar). I value flexibility greatly, and <br>
+<b>Planning hours</b> 7:30-8:30a
+<b>Working hours</b> are generally 8:30a-5p, though this varies somewhat depending on meetings. If I am not available during my normal hours for some reason, I will mark it in my Slack status (and on my calendar). I value flexibility greatly, and <br>
 <b>Time zone</b>: Central <br>
 <br>
 <h3 style="font-size:30px;"><b>Communication preferences</b></h3> <br>
