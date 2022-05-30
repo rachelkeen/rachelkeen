@@ -17,7 +17,7 @@ Part of  having a diverse and inclusive team, means recognizing and appreciating
 <b>Working hours</b> are generally 8:30a-5p, though this varies somewhat depending on meetings. If I am not available during my normal hours for some reason, I will mark it in my Slack status (and on my calendar).<br>
 <b>Time zone</b>: Central - but am available to flex to Eastern time as needed. <br>
 <br>
-<h3 style="font-size:30px;"><b>Communication preferences</b></h3> <br>
+<h3 style="font-size:30px;"><b>Communication preferences</b></h3> 
 During work hours in order of preference:<br>
 - Slack DM<br>
 - Zoom call<br>
@@ -28,7 +28,8 @@ Outside work hours in order of preference:<br>
 - Email (if not time-sensitive)<br>
 - Text message<br>
 - Phone call<br>
-<p>
+<br>
+<br>
 - My number 1 goal is to <b>be available</b> to support my team, and <b>facilitate their growth</b> - please do not assume I am too busy, reach out if you would like and I will ensure we make time to connect<br>
 - I appreciate <b>direct communication</b> as it helps me know how to best support you<br>
 - I enjoy my work most when I have a <b>high level of autonomy</b>, I incorporate this into how I lead others - if you prefer less autonomy or require more assistance please let me know<br>
